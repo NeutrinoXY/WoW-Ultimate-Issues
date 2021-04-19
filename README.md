@@ -1,3 +1,9 @@
 # WoW Ultimate public repository
 
-Please fill out issues for technical issues or questions. :)
+## Request a feature
+
+Click on "Issues", then fill an issue and choose the "enhancement" label
+
+## Report a bug
+
+Fill an issue and choose the "bug" label
